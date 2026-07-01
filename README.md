@@ -1,6 +1,6 @@
 # Executive Summary
 
-#Business Problem
+# Business Problem
 
-#Methodology
+# Methodology
 
